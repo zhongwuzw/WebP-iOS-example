@@ -3,6 +3,8 @@ WebP iOS 示例
 
 WebP iOS示例，由于[原作者的项目](https://github.com/carsonmcdonald/WebP-iOS-example)不更新了，遂创建了该项目。
 
+## Run
+Clone and then just run `TestWebP.xcodeproj`.
 
 ## LICENSE
 Copyright (c) 2013-2016 zhongwuzw
